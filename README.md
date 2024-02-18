@@ -1,4 +1,4 @@
-<h1 align="center">Bootloader donldr</h1> 
+<h1 align="center">Bootloader Donldr</h1> 
 
 ## Загрузчик ядра. 
 #### Модифицирует запись MBR и может загружать любой бинарный файл с именем Kernel.sys размером до 64 Kb.
